@@ -1,4 +1,4 @@
-# AIE Silafluorene
+# AIE Silafluorene Calculations
 
 <img align="right" src='https://github.com/LinusP217/AIE_Silafluorene/blob/main/LockedSF_HOMO.png' width = "300" height = "284">
 
